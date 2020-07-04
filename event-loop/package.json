@@ -1,0 +1,16 @@
+{
+    "name": "event-loop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "runner.js",
+    "scripts": {
+        "start": "node runner.js",
+        "test": "jest --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.1.0"
+    }
+}
